@@ -26,7 +26,7 @@ class Config(object):
 
     API_ID = 8858734  # integer value, dont use ""
     API_HASH = "e1df48857a3fbe3093a6ef5cd7ccfe41"
-    TOKEN = "1616584987:AAGiKBL-7Q4mihWH03AGtyBjfDNdp23zJVc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "7996734716:AAFjnDTMHdM-9wF8T2_DSZWi78Jv3lWWQZA"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5303133436  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "Dr_Assad_Ali"
     SUPPORT_CHAT = 'Alexa_Help'  #Your own group for support, do not add the @
